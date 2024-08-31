@@ -42,10 +42,10 @@ A simple WordPress plugin to display an under-construction page on your website.
 ## Screenshots
 
 ### 1. Settings Page
-![Settings Page](/wp-content/plugins/jl-under-construction-page/screenshot_1.png)
+![Settings Page](/screenshot_1.png)
 
 ### 2. Under Construction Page Preview
-![Under Construction Page Preview](/wp-content/plugins/jl-under-construction-page/screenshot_2.png))
+![Under Construction Page Preview](/screenshot_2.png))
 
 ## Changelog
 
