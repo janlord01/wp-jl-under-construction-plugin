@@ -327,4 +327,20 @@ function jl_ucp_preview_page() {
     </div>
     <?php
 }
+
+// Hook to display admin notices after saving settings
+add_action('admin_notices', 'jl_ucp_admin_notice');
+
+function jl_ucp_admin_notice() {
+    // Check if the settings were updated
+    if (isset($_GET['settings-updated']) && $_GET['settings-updated']) {
+        ?>
+        <div class="notice notice-success is-dismissible">
+            <p><?php _e('Settings saved successfully!', 'jl-ucp'); ?></p>
+        </div>
+        <?php
+    }
+}
+
 ?>
+
