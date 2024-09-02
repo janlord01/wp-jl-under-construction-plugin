@@ -45,7 +45,7 @@ A simple WordPress plugin to display an under-construction page on your website.
 ![Settings Page](/screenshot_1.png)
 
 ### 2. Under Construction Page Preview
-![Under Construction Page Preview](/screenshot_2.png))
+![Under Construction Page Preview](/screenshot_2.png)
 
 ## Changelog
 
